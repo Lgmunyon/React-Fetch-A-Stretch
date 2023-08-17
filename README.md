@@ -1,70 +1,22 @@
-# Getting Started with Create React App
+# Fetch A Stretch - React (UNDER CONSTRUCTION)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+As I've transitioned from the wellness industry to a more sedentary career I've noticed something; I don't move as well as I use to, I have new aches and pains, and my posture has become worse. I've used my knowledge from my previous line of work as a Corrective Exercise Specialist to correct some of the muscular imbalances I've begun to notice, and I realized that it can't just be me. There are thousands of people who sit at a desk all day working who get sore, ache, and stiff. I want to help with that. 
 
-## Available Scripts
+Fetch A Stretch is a React project so it is simple, easy, and FREE to find the exercises and stretches that you need to be doing to specifically counteract a day of sitting at a desk, a car, and at home. I have created my own API with the stretch name, description, and a video showing how it is done. My goal is simple, to help people move and feel better in their day to day life. Everything here can be done without equipment, and almost all can be done at your desk with no need to find a specific place to do them (although I encourage you to get up and move around a bit regardless).
 
-In the project directory, you can run:
+# Primary Languages
 
-### `npm start`
+Javascript, React.js, Node.js. Styling done using CSS. 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Current Phase
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Building the MVP. Currently in the process of successfully connecting the API, and ensuring all components load in on their intended place.
 
-### `npm test`
+# Key Features to Come
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Carousel for each "stretch deck".
+Accounts and the ability to favorite stretches into your own custom "stretch deck".
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Seconday Features to Come
+A notepad to keep notes of how you feel throughout the stretch, to track progress. 
+Ability to change timer limit and alert sound
